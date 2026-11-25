@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "textures",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/pashagamer23221-spec/texture/blob/main/texture.png?raw=true"
+    }
+  ]
+}
