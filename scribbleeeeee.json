@@ -1,0 +1,31 @@
+{
+  "replacement_rules": [
+    {
+      "name": "arena dark mode",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112448109089773
+    },
+    {
+      "name": "scrib",
+      "replace_ids": [
+        124796745676624
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112448109089773
+    },
+    {
+      "name": "literaly nothing",
+      "replace_ids": [
+        "43643774568556845747458569697569468343627458670780\u00b06956743745376960"
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 4845745734637589780894575965845745745645756856685569857697
+    }
+  ]
+}
